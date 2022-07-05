@@ -2,4 +2,5 @@
 
 
 Link Fonte dos Dados: https://www.fundsexplorer.com.br/ranking
-Link Fonte dos Dados: https://statusinvest.com.br/fundos-imobiliarios/
+
+Link Fonte dos Dados: https://statusinvest.com.br/fundos-imobiliarios
